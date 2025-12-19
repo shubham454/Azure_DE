@@ -1,2 +1,2 @@
-# AWS-GLUE-pyspark-python
-End to end project using AWS glue and services
+# Azure_data_engineer_DATABRICKS_ADF
+End to end project using Databricks and Azure Services
